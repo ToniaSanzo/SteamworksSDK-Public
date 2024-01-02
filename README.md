@@ -4,5 +4,5 @@ Contains a publicly facing Steamworks SDK package. Intended to be used to downlo
 
 ## Steamworks SDK Metadata
 
-Version: 1.58a<br/>
-Release Date: Oct 26, 2023
+**Version:**      1.58a<br/>
+**Release Date:** Oct 26, 2023
